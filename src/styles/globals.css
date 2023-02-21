@@ -65,7 +65,7 @@
 }
 
 .wrapperBg{
-  background-image: url("../../public/wrapperbg.jpg");
+  background-image: url("/wrapperbg.jpg");
   background-color: #fffffff1;
   background-blend-mode: lighten;
   background-attachment: fixed;

@@ -75,6 +75,7 @@
   background-image: url("/ourTeamBg.gif");
   background-color: #0000009c;
   background-blend-mode: darken;
+  background-size: cover;
   height: 500px;
   width: 100%;
   /* background-color: #e1e1e1; */

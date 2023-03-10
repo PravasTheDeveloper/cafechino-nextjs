@@ -2,9 +2,9 @@ import React from 'react'
 import Carousel from './Carousel'
 
 const slides = [
-  "1.jpg",
-  "2.jpg",
-  "3.jpg"
+  "1.gif",
+  "2.gif",
+  "3.gif"
 ]
 
 function HeroSection() {

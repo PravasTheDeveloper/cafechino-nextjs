@@ -81,7 +81,7 @@
 }
 
 .workingHourBg{
-  background-image: url("/WorkingHourbg.jpg");
+  background-image: url("/WorkingHourbg.gif");
   background-color: #0000009f;
   background-blend-mode: darken;
   background-position: center;
@@ -89,7 +89,7 @@
 }
 
 .workingHourBg2{
-  background-image: url("/WorkingHourbg2.jpg");
+  background-image: url("/WorkingHourbg2.gif");
   background-color: #0000009f;
   background-blend-mode: darken;
   background-position: center;
